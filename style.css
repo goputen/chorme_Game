@@ -1,0 +1,17 @@
+h1{
+
+
+}
+
+
+#gameBorder{
+background-color: lightgray;
+/* height: 30vh;
+width: 40vh; */
+border-bottom: 1px solid black;
+}
+
+#score{
+    font-size: 18px;
+    font-family: monospace;
+}
